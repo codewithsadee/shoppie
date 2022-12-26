@@ -1,0 +1,147 @@
+Shoppie - Man summer collection
+
+This is an eCommerce html template made by codewithsadee
+
+
+
+#---------- HEADER ----------#
+
+alt = shoppie home
+
+Home
+Portfolio
+Blog
+Shop
+
+<ion-icon name="bag" aria-hidden="true"></ion-icon>
+Cart (02)
+
+Contact Us
+
+aria-label = toggle menu
+
+<ion-icon name="menu-outline" aria-hidden="true"></ion-icon>
+
+
+
+#---------- HERO ----------#
+
+$120.00
+
+Man summer collection
+
+This is the factor that sets us apart from competition and allows us deliver a specialist business service team applies its ranging experience determining
+
+Shop Now
+<ion-icon name="arrow-forward" aria-hidden="true"></ion-icon>
+
+alt = hero banner
+
+
+
+#---------- PRODUCT ----------#
+
+Explore new arrivals
+
+alt = Short Sleeve Shirt
+
+<ion-icon name="bag" aria-hidden="true"></ion-icon>
+Add To Cart
+
+Short Sleeve Shirt
+$170.00
+
+alt = Dead Sunglasses
+Dead Sunglasses
+$210.00
+
+alt = Studios Trouser
+Studios Trouser
+$90.00
+
+
+
+#---------- FEATURE ----------#
+
+Featured products
+
+alt = Acne Baseball Cap
+
+<ion-icon name="bag" aria-hidden="true"></ion-icon>
+Add To Cart
+
+Acne Baseball Cap
+$80.00
+
+alt = Short Sleeve Shirt
+Short Sleeve Shirt
+$170.00
+
+alt = Garcons Parfums
+Garcons Parfums
+$190.00
+
+alt = Salomon Sneaker
+Salomon Sneaker
+$450.00
+
+alt = Ribbed Beanie Hat
+Ribbed Beanie Hat
+$120.00
+
+alt = Acronym Khaki
+Acronym Khaki
+$220.00
+
+View All Products
+
+
+
+#---------- OFFER ----------#
+
+35% Off
+
+This is the main factor that sets us apart our competition and allows us deliver a specialist business consultancy service
+
+Shop Now
+
+<ion-icon name="arrow-forward" aria-hidden="true"></ion-icon>
+
+
+
+#---------- FOOTER ----------#
+
+alt = shoppie home
+
+Main factor that sets us apart competition allows deliver a specialist business consultancy service applies its ranging experience
+
+<ion-icon name="logo-facebook"></ion-icon>
+<ion-icon name="logo-twitter"></ion-icon>
+<ion-icon name="logo-linkedin"></ion-icon>
+
+
+Contact info
+
+Neal St, London WC2H 9PR
+United Kingdom
+
+info.shoppie@support.com
++00 123 456 789
+
+Subscribe newsletter
+
+placeholder = Enter your email address
+Subscribe
+
+Portfolio
+Our Team
+Pricing Plan
+Services
+Contact Us
+
+Terms & Conditions
+Privacy Policy
+
+&copy; 2022 codewithsadee, All Rights Reserved
+
+alt = shape
