@@ -347,6 +347,7 @@ body {
 .hero {
   background-color: var(--bg-wild-blue-yonder);
   padding-block: 130px 75px;
+  height:100vh;
 }
 
 .hero .container {
