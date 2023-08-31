@@ -3,7 +3,7 @@
   ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/shoppie)
   ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/shoppie?style=social)
   ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/shoppie?style=social)
-  [![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee)
+[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
   [![YouTube Video Views](https://img.shields.io/youtube/views/dZV-y3GzBlg?style=social)](https://youtu.be/dZV-y3GzBlg)
 
   <br />
